@@ -6,4 +6,4 @@ Most of the code was written by ghost's author. I studied it when I was at unive
 
 Below is the snap of the tool:
 
-!(Demo)[./Snipaste_2023-01-05_20-52-06.png]
+![demo](./Snipaste_2023-01-05_20-52-06.png)
