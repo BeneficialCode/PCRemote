@@ -2,7 +2,7 @@
 
 A Windows Remote Administrator Tool
 
-Most of the code was written by ghost's author. I studied it when I was at university. It'a about four years ago.
+Most of the code was written by ghost's author. I studied it when I was at university. It was about four years ago.
 
 Below is the snap of the tool:
 
